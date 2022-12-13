@@ -24,4 +24,6 @@ df_log = pd.read_csv("datas/station_run_log.csv")  # 读取运行日志
 def calculate_by_template(df_input):
     df = df_input
     
+def calculate_by_capacity(df_input):
+    df = df_input
     
